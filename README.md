@@ -35,8 +35,3 @@ The game requires the following dependencies:
 
 ## Contributing
 Contributions to the Turtle Crossing Game are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.
-
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for more information.
-
-
